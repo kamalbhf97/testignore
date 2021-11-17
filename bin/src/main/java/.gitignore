@@ -1,5 +1,0 @@
-target/
-.idea/
-bin/
-/main/**/bin/
-**/bin

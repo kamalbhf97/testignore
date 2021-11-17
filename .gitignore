@@ -1,4 +1,5 @@
 bin/
+/main/**/bin/
 # Compiled class file
 *.class
 bin/
